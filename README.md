@@ -18,4 +18,4 @@ This project is based on Python , and I used no modules other than copy and time
 
 ### 2. User Guide
 
-You can input Soduku Puzzle infomation in config.py , then run soduku.py and the answer will be output.
+You can input Soduku Puzzle infomation in config.py , then run soduku.py and the answer will be outputed.
