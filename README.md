@@ -1,4 +1,4 @@
-# Python_Soduku_Cheats
+# 数独作弊器 Python_Soduku_Cheats 
 
 ## 中文介绍
 
