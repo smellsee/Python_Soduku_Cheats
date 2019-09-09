@@ -9,6 +9,7 @@
 ### 2. 使用方法
 
 在config文件中根据数独题目，更新数独列表的值；然后执行soduku.py，就会输出该数独题目对应的答案；
+对于初学者可以查看知乎专栏学习https://zhuanlan.zhihu.com/c_1139901563622494208
 
 ## Description
 
