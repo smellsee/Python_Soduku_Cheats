@@ -182,7 +182,8 @@ def trial(total_value_range):
 
 if __name__ == '__main__':
     t1 = time.time()
-
+    for i in soduku:
+        print(i)
     a = reduce_totalValueRange(soduku)
     for i in trial(a):
         print(i)
